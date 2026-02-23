@@ -15,13 +15,13 @@
   
   Each section is writen by a different team member
 
-  ### Software engineer
-* Calvo  will write thi section
+### Software engineer
+ * Calvo  will write thi section
   
-  ### Data Scientist
+### Data Scientist
  * Samuel will write this section
   
-   ### Ux designer
-  * Valet will write thi secti
+### Ux designer
+ * Valet will write thi secti
   
   
