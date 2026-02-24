@@ -2,7 +2,7 @@
 ### Members
 * Samuel
 * Valet
-* Calvo
+* Jimmie
 ### Table of contents
 
 - Introduction
@@ -16,12 +16,12 @@
   Each section is writen by a different team member
 
 ### Software engineer
- * Calvo  will write thi section
+ * Jimmie  will write this section
   
 ### Data Scientist
  * Samuel will write this section
   
 ### Ux designer
- * Valet will write thi secti
+ * Valet will write this secttion
   
   
