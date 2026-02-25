@@ -62,7 +62,7 @@
    
    ### Companies known for best ux design
    * apple
-   * Netfli
+   * Netflix
    * Google
    * Airbnb
    
